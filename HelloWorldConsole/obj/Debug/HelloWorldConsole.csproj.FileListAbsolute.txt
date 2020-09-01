@@ -1,0 +1,6 @@
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojAssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Users\Aaron\Documents\GitHub\helloworldconsole-BoostioA\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
